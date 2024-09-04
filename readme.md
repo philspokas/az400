@@ -11,17 +11,18 @@ This repo will include curriculum, references, study guides, and other prep mate
 - Demos when helpful to illustrate concepts
 
 ## Prerequisites
-- 2 or more years of experience in one or more of software development, operations, site reliability, cloud ops/engineer
-- 
+- Experience both administering and developing in Azure, with strong skills in at least one of these areas
+- Experience implementing both GitHub and Azure DevOps solutions
 
 ## Tools and Prep
+The following tools and accounts will be used in these training sessions. You are free to use a code editor of choice. Note that we will be using VS Code specific extensions for git, Azure, Azure Pipelines, GitHub Actions and potentially others.
 
 1. VS Code or comparable text editor
 1. Azure DevOps free account
 1. Personal GitHub account
 1. Docker 
 
-<i>Some familiarity with coding and coding practices is expected, however, development experience is not required</i>
+<i>Some familiarity with coding and coding practices is expected, however, deep development experience is not required</i>
 
 ## References
 
