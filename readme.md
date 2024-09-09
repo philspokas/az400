@@ -7,8 +7,14 @@ This repo will include curriculum, references, study guides, and other prep mate
 
 - 12 sessions of maximum 2 hour class style sessions
 - Presentation plus practice
-- Emphasize hands on prectice and demos to re-inforce the content
+- Emphasize hands on prectice and demos to re-inforce the content (learn by doing)
 - Demos when helpful to illustrate concepts
+
+- Introduce a topic
+- Reveiw the why, the what
+- A little how
+- Homework excercises take the next step
+
 
 ## Prerequisites
 - Experience both administering and developing in Azure, with strong skills in at least one of these areas
@@ -19,8 +25,12 @@ The following tools and accounts will be used in these training sessions. You ar
 
 1. VS Code or comparable text editor
 1. Azure DevOps free account
+1. Azure Account (VSE dev/test is plenty)
 1. Personal GitHub account
-1. Docker 
+1. Docker Desktop
+1. [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+1. [Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli)
+1. [GitHub CLI](https://cli.github.com/)
 
 <i>Some familiarity with coding and coding practices is expected, however, deep development experience is not required</i>
 
