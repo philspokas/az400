@@ -1,6 +1,5 @@
 ## About the exam
-Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions tests a broad set of knowledge and generally doesn't dive too deep.
-However, one should expect some specific questions in some areas.
+Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions tests a broad set of DevOps knowledge and generally doesn't dive too deep.
 
 AZ-102 or AZ-204 pre-reqs to the [DevOps Engineer Expert](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/) certification of which AZ-400 is a part. Expect to see some questions related to those areas on the exam.
 
