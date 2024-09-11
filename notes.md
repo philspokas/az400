@@ -1,9 +1,4 @@
-## About the exam
-Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions tests a broad set of DevOps knowledge and generally doesn't dive too deep.
-
-AZ-102 or AZ-204 pre-reqs to the [DevOps Engineer Expert](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/) certification of which AZ-400 is a part. Expect to see some questions related to those areas on the exam.
-
-Practices, tooling, techniques
+## Practices, tooling, techniques
 
 Example practices: 
 - use swimlanes to manage work by service class
@@ -21,8 +16,6 @@ Compare DevOps with GitHub
 Details of git
 
 Traffic Manager distributiion
-
-
 
 Pipeline secrt and variable limits (100 secrets)
 
@@ -43,7 +36,7 @@ Azure
 - Azure Automation w/ PowerShell DSC
 
 
-Build and Release
+# Build and Release
 * Parallel jobs at org level
 * secruity scan in integration job
 * site security scan in deployment job
@@ -51,9 +44,19 @@ Build and Release
 * mulit-job configuration
 * retention policies
 
+## GitHub Action Workflows
+### Secrets
+* 100 secrets per workflow
+* secret must be less than 48K
+* use "with:" keyword to use secrets in a "step"
+* use "env:" to pass a secret into an environment variable
+* not secrets not available in an if statement unless set in environment
 
 
-PowerShell DSC
+
+# Infrastrcture
+
+## PowerShell DSC
 - Azure Automation
 - MOF files
 - [learn module](https://learn.microsoft.com/training/modules/implement-desired-state-configuration-dsc/4-explore-azure-automation)

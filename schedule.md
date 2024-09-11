@@ -24,7 +24,9 @@ You can take as many assessments as you'd like.
     1. Azure services: App config, app service, functions, 
 1. Practice Assessments
     - https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/practice/results?assessmentId=56&snapshotId=7758016b-d2c7-4550-ad1a-e78106d585be
-1. 
+1. Excercise
+1. Sample questions
+
 
 ## Session 2, Process Management<p/>Sep 24, 2024
 
@@ -37,13 +39,17 @@ You can take as many assessments as you'd like.
     1. Swimlanes
     1. Customization
 
-
-
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
+
+
 
 ## Session 4, Source control collaboration<p/>Oct 08, 2024
 
-1. Brancing workflows
+1. Branching workflows
+1. Pull Requests
+    - Branch protection vs. rulesets
+1. [Recommended Process](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/4-explore-git-branch-model-for-continuous-delivery)
+
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
 ## Session 6, Package management<p/>Oct 22, 2024

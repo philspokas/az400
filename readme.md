@@ -1,7 +1,12 @@
 # AZ-400 Exam Prep
 This material is intented to prepare you for the Microsoft Certified: DevOps Engineer Expert certification.
 
-This repo will include curriculum, references, study guides, and other prep material
+This repo includea curriculum, references, study guides, and other material that can be used to prepare for the exam.
+
+## About the exam
+Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions tests a broad set of DevOps knowledge and generally doesn't dive too deep.
+
+This exam is a part of the [DevOps Engineer Expert](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/) certification. Microsoft exams AZ-102 or AZ-204 is a pre-req to the certification so you can expect to see some questions related to Azure Architecture and Azure Development on the exam.
 
 ## General Approach
 
@@ -24,6 +29,7 @@ This repo will include curriculum, references, study guides, and other prep mate
 The following tools and accounts will be used in these training sessions. You are free to use a code editor of choice. Note that we will be using VS Code specific extensions for git, Azure, Azure Pipelines, GitHub Actions and potentially others.
 
 1. VS Code or comparable text editor
+    - list of recommended extensions
 1. Azure DevOps free account
 1. Azure Account (VSE dev/test is plenty)
 1. Personal GitHub account
@@ -31,6 +37,8 @@ The following tools and accounts will be used in these training sessions. You ar
 1. [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 1. [Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli)
 1. [GitHub CLI](https://cli.github.com/)
+
+
 
 <i>Some familiarity with coding and coding practices is expected, however, deep development experience is not required</i>
 
