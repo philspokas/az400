@@ -36,7 +36,6 @@ GitHub Secret Scanning
 Package dependencies    
 
 
-
 Azure 
 * App Service staging
 * Traffic Manager IPV6 [learn resource](https://learn.microsoft.com/training/modules/implement-canary-releases-dark-launching/3-examine-traffic-manager)
