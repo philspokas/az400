@@ -1,23 +1,5 @@
-## Practices, tooling, techniques
-
-Example practices: 
-- use swimlanes to manage work by service class
-- create and use a Definition of Done
-
-Tooling:
-- Git, Pipelines, Actions,  ...
-
-Techniques:
-- Parallizing, 
-
-Azure services like App Service
-
-Compare DevOps with GitHub
-Details of git
-
-Traffic Manager distributiion
-
-Pipeline secrt and variable limits (100 secrets)
+# Notes
+these should go somewhere ...
 
 Interact with Key Vault from Pipeline
 
@@ -28,10 +10,20 @@ GitHub Secret Scanning
 
 Package dependencies    
 
+Compare DevOps with GitHub
 
-Azure 
-* App Service staging
-* Traffic Manager IPV6 [learn resource](https://learn.microsoft.com/training/modules/implement-canary-releases-dark-launching/3-examine-traffic-manager)
+# Practices
+
+Some practices: 
+- use swimlanes to manage work by service class
+- create and use a Definition of Done
+- Parallelizing jobs to "improve" performance
+
+# Azure 
+* App Service staging slot swap
+* Traffic Manager 
+    * IPV6 [learn resource](https://learn.microsoft.com/training/modules/implement-canary-releases-dark-launching/3-examine-traffic-manager)
+    * distribution
 - Azure App Configuration for feature management 
 - Azure Automation w/ PowerShell DSC
 
@@ -51,8 +43,6 @@ Azure
 * use "with:" keyword to use secrets in a "step"
 * use "env:" to pass a secret into an environment variable
 * not secrets not available in an if statement unless set in environment
-
-
 
 # Infrastrcture
 
@@ -96,8 +86,16 @@ Power BI and pipeline analytics [exercise](https://learn.microsoft.com/training/
 * ssh not supported when using LFS
 * forking workflow
 * merge policies and strategies
+    * merge commit
+    * squash and merge
+ 
+ https://git-scm.com/docs
+ https://git-scm.com/book
+
+
 * BFG
 * git filter-branch and filter-repo
+
 
 # Process Collaboration
 
@@ -120,6 +118,16 @@ https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows
 * Trunk Based
     * cetnroal repo...
     ? concept or different technique
+* Forking Workflow
+    * 2 repos: server side clone aka fork and client side for dev
+    * maintainer pulls from fork
+* GitHub Flow
+* GitFlow
+    * deprecated by author
+    * only useful in very complex scenarios
+
+Why? just enough process to help insure quality, idea is to ship
+The right strategy is the one that works for your team
 
 ### Flow
 1. create branch
@@ -132,12 +140,10 @@ https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows
 associate issues
 Business domain feature sets
 
-
-Git Forking Worflow
-Gitflow Workflow
-
-Why? just enough process to help insure quality, idea is to ship
-The right strategy is the one that works for your team
+## Pull Requests
+### GitHub
+* Status check check
+* Commit Status
 
 
 # Monitoring
@@ -149,8 +155,6 @@ The right strategy is the one that works for your team
 # Additional Topics
 - Semantic versioning
 - Microsoft dev approach
-
-
 
 ## To Do:
 * git pull vs rebase (https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase)
