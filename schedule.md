@@ -27,6 +27,7 @@ You can take as many assessments as you'd like.
 1. Excercise
 1. Sample questions
 
+
 ## Session 2, Process Management<p/>Sep 24, 2024
 
 1. KPIs and Diagrams
