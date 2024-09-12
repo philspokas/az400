@@ -24,7 +24,7 @@ Interact with Key Vault from Pipeline
 OWASP ZAP
 https://www.zaproxy.org/docs/desktop/start/features/contexts/
 
-GitHub Secret Scanning
+GitHub secret Scanning
 
 Package dependencies    
 
