@@ -33,10 +33,10 @@ The following tools and accounts will be used in these training sessions. You ar
 1. Azure DevOps free account
 1. Azure Account (VSE dev/test is plenty)
 1. Personal GitHub account
-1. Docker Desktop
 1. [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 1. [Azure DevOps CLI](https://learn.microsoft.com/en-us/azure/devops/cli)
 1. [GitHub CLI](https://cli.github.com/)
+1. Docker Desktop
 
 
 <i>Some familiarity with coding and coding practices is expected, however, deep development experience is not required</i>
