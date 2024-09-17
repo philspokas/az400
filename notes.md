@@ -10,30 +10,16 @@ Tooling:
 Techniques:
 - Paralellizing pipelines to improve performance
 
-
-Compare DevOps with GitHub
-Details of git
-
-Traffic Manager distributiion
-
-Pipeline secrt and variable limits (100 secrets)
-
-Interact with Key Vault from Pipeline
-
-OWASP ZAP
+Things to know:
+- Compare DevOps with GitHub
+- Details of git
+- Traffic Manager distributiion
+- Pipeline secret and variable limits (100 secrets)
+- Interact with Key Vault from Pipeline
+- OWASP ZAP
 https://www.zaproxy.org/docs/desktop/start/features/contexts/
-
-GitHub secret Scanning
-
-Package dependencies    
-
-
-Azure 
-* App Service staging
-* Traffic Manager IPV6 [learn resource](https://learn.microsoft.com/training/modules/implement-canary-releases-dark-launching/3-examine-traffic-manager)
-- Azure App Configuration for feature management 
-- Azure Automation w/ PowerShell DSC
-
+- GitHub secret Scanning
+- Package dependencies    
 
 # Build and Release
 * Parallel jobs at org level
@@ -79,11 +65,14 @@ Power BI and pipeline analytics [exercise](https://learn.microsoft.com/training/
 # Azure Services
 Know what the service is used for in a DevOps context as well as how the service can be used.
 
+- - Azure Automation w/ PowerShell DSC
 - Azure Data Explorer
     - ingest and query logs, events from ADO et.al.
 - Azure Monitor
 - App Service
     - Blue green deployments
+    - Slot swapping
+    - progressive rollout
 - App Configuration Service
     - Common config across multiple apps and environments
     - Feature Flag impelementation
@@ -98,6 +87,8 @@ Know what the service is used for in a DevOps context as well as how the service
 - Logic Apps
     - integrate with Monitor scenarios
 - Traffic Manager
+    - IPV6 [learn resource](https://learn.microsoft.com/training/modules/implement-canary-releases-dark-launching/3-examine-traffic-manager)
+    - progressive rollout
 - Load Balancer
 
 
@@ -208,7 +199,6 @@ Alice does git push origin master, and everyone is happy they don't have to read
 
 
 ## MeasureUp Exam
-107
 * Lock a branch and required reviewers
 * OWASP Dependency-Check and OWASP ZAP
 * log analytics workspace architecture 
