@@ -10,7 +10,7 @@ This exam is a part of the [DevOps Engineer Expert](https://learn.microsoft.com/
 
 ## General Approach
 
-- 12 sessions of maximum 2 hour class style sessions [Schedule](.\schedule.md)
+- 12 sessions of maximum 2 hour class style sessions [Schedule](schedule.md)
 - Presentation plus practice
 - Emphasize hands on prectice to re-inforce the content (learn by doing)
 - Demos when helpful to illustrate concepts
@@ -42,7 +42,7 @@ The following tools and accounts will be used in these training sessions. You ar
 
 ## References
 
-Exam notes including topics covered and sample question references: [notes](.\notes.md)
+Exam notes including topics covered and sample question references: [notes](notes.md)
 
 Exam details:
 https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
