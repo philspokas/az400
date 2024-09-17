@@ -53,6 +53,10 @@ You can take as many assessments as you'd like.
     1. Mean Time to 
 1. Excercise
 
+ADO Teams
+GitHub Teams
+Security
+
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
 
