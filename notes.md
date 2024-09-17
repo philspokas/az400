@@ -8,9 +8,8 @@ Tooling:
 - Git, Pipelines, Actions,  ...
 
 Techniques:
-- Parallizing, 
+- Paralellizing pipelines to improve performance
 
-Azure services like App Service
 
 Compare DevOps with GitHub
 Details of git
@@ -98,6 +97,8 @@ Know what the service is used for in a DevOps context as well as how the service
     - container orchestration
 - Logic Apps
     - integrate with Monitor scenarios
+- Traffic Manager
+- Load Balancer
 
 
 # Work Management
@@ -181,6 +182,8 @@ The right strategy is the one that works for your team
 - Microsoft dev approach
 
 ## To Do:
+https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/
+
 * https://learn.microsoft.com/en-us/training/courses/az-400t00
 * git pull vs rebase (https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase)
 
@@ -303,3 +306,9 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 - feature flags: https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet-background-service
 - app config feature flags: https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags?tabs=azure-portal
 - DevOps Task for Azure Data Explorer: https://learn.microsoft.com/en-us/azure/data-explorer/devops
+- Rate and usage limits: https://learn.microsoft.com/en-us/azure/devops/integrate/concepts/rate-limits?view=azure-devops&source=docs
+- Azure DevOps Task for Azure Data Explorer: https://learn.microsoft.com/en-us/azure/data-explorer/devops
+- Locking and git-lfs: https://github.com/git-lfs/git-lfs/wiki/File-Locking
+- runsettings for unit tests: https://learn.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022
+- flaky tests: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/flaky-test-management?view=azure-devops
+- mermaid

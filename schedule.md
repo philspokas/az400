@@ -25,19 +25,29 @@ You can take as many assessments as you'd like.
 1. Practice Assessments
     - https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/practice/results?assessmentId=56&snapshotId=7758016b-d2c7-4550-ad1a-e78106d585be
 1. Excercise
+    1. Create Azure DevOps Organization
+    1. Create a Project
+    1. Add 2 Features
+    1. Add 3 Work Items to 1 of the features, not different ways Items can be added
+    1. Configure Kanban board
 1. Sample questions
+    - 
+    - 
 
 
 ## Session 2, Process Management<p/>Sep 24, 2024
 
+1. Agile Planning
+1. Boards
+    1. Swimlanes
+    1. Customization
 1. KPIs and Diagrams
     1. Cycle time
     1. Cumulative Flow
     1. Lead Time
     1. Mean Time to 
-1. Boards
-    1. Swimlanes
-    1. Customization
+1. Excercise
+    
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
 
