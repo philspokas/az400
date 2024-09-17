@@ -30,13 +30,18 @@ You can take as many assessments as you'd like.
     1. Add 2 Features
     1. Add 3 Work Items to 1 of the features, not different ways Items can be added
     1. Configure Kanban board
+    1. Create a wiki
+    1. Add a Mermaid diagram
 1. Sample questions
-    - 
-    - 
-
+    - [Practice Assessment] (https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56)
+1. Independent Excercise: [Planning in GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+    1. Create project in GitHub
+    1. Configure board
+    1. Add project cards
+    1. Convert to issues
 
 ## Session 2, Process Management<p/>Sep 24, 2024
-
+<i>draft</i>
 1. Agile Planning
 1. Boards
     1. Swimlanes
@@ -47,18 +52,19 @@ You can take as many assessments as you'd like.
     1. Lead Time
     1. Mean Time to 
 1. Excercise
-    
+
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
-
-
-
-## Session 4, Source control collaboration<p/>Oct 08, 2024
 
 1. Branching workflows
 1. Pull Requests
     - Branch protection vs. rulesets
 1. [Recommended Process](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/4-explore-git-branch-model-for-continuous-delivery)
+
+
+## Session 4, Source control collaboration<p/>Oct 08, 2024
+
+1. git
 
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
