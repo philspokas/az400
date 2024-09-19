@@ -1,4 +1,4 @@
-## Practices, tooling, techniques
+# Practices, tooling, techniques
 
 Example practices: 
 - use swimlanes to manage work by service class
@@ -10,7 +10,7 @@ Tooling:
 Techniques:
 - Paralellizing pipelines to improve performance
 
-Things to know:
+# Stuff to know:
 - Compare DevOps with GitHub
 - Details of git
 - Traffic Manager distributiion
@@ -42,8 +42,16 @@ https://www.zaproxy.org/docs/desktop/start/features/contexts/
 * not secrets not available in an if statement unless set in environment
 
 
+# Infrastrcture as Code (IaC)
 
-# Infrastrcture
+## IaC
+- ARM Templates
+- Bicep including modules
+- 3rd party tools
+    - Basic familiarity with Ansible, Chef, Puppet and Azure Automation
+    - Ansible: agentless
+- Auzre Automation: Agent or extension
+
 
 ## PowerShell DSC
 - Azure Automation
@@ -52,20 +60,11 @@ https://www.zaproxy.org/docs/desktop/start/features/contexts/
 - MOF files
 - [learn module](https://learn.microsoft.com/training/modules/implement-desired-state-configuration-dsc/4-explore-azure-automation)
 
-## IaC
-- ARM Templates
-- Bicep including modules
-- 3rd party tools
-Basic familiarity with Ansible, Chef, Puppet and Azure Automation
-Ansible: agentless
-Auzre Automation: Agent or extension
-
-Power BI and pipeline analytics [exercise](https://learn.microsoft.com/training/modules/create-release-pipeline/6-monitor-pipeline-health)
 
 # Azure Services
 Know what the service is used for in a DevOps context as well as how the service can be used.
 
-- - Azure Automation w/ PowerShell DSC
+- Azure Automation w/ PowerShell DSC
 - Azure Data Explorer
     - ingest and query logs, events from ADO et.al.
 - Azure Monitor
@@ -167,6 +166,8 @@ The right strategy is the one that works for your team
 * on prem monitoring with Azure Monitor Agent
 * kql, project, reduce, take, where
 * mapping dependencies
+* Power BI and pipeline analytics [exercise](https://learn.microsoft.com/training/modules/create-release-pipeline/6-monitor-pipeline-health)
+
 
 # Additional Topics
 - Semantic versioning
