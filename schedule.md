@@ -60,6 +60,7 @@ You can take as many assessments as you'd like.
 
 1. Excercises
     1. Connect Boards to GH https://learn.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops
+        
     1. Create a wiki
     1. Add a Mermaid diagram
     1. Wiki as source
