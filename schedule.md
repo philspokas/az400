@@ -14,6 +14,7 @@ You can take as many assessments as you'd like.
 
 
 ## Session 1, Introduction to DevOps<p/>Sep 17, 2024
+<details>
 
 1. What is DevOps
 1. About the exam
@@ -43,6 +44,8 @@ You can take as many assessments as you'd like.
     - Briefly covered agile planning 
     - Brief intro to customizing processes
 
+</details>
+
 ## Session 2, Process Management<p/>Sep 24, 2024
 <i>draft</i>
 1. Boards
@@ -59,13 +62,14 @@ You can take as many assessments as you'd like.
     1. Max WIP per team member or team?
 
 1. Excercises
-    1. Connect Boards to GH https://learn.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops
-        
+    1. Connect Boards to GH
+        1.  https://learn.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops
+        1. attach commits
+
     1. Create a wiki
     1. Add a Mermaid diagram
     1. Wiki as source
 1. Sample Questions
-
 
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
