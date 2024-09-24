@@ -47,7 +47,9 @@ You can take as many assessments as you'd like.
 </details>
 
 ## Session 2, Process Management<p/>Sep 24, 2024
-<i>draft</i>
+
+<details>
+
 1. Boards
     1. Swimlanes
     1. Customization
@@ -71,16 +73,24 @@ You can take as many assessments as you'd like.
     1. Wiki as source
 1. Sample Questions
 
+</details>
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
 
+<b><i>draft</i></b>
+
+1. Teams and Team Permissions
 1. Branching workflows
 1. Pull Requests
-    - Branch protection vs. rulesets
+    - ADO vs. GitHub
+        - Branch protection vs. rulesets
+
 1. [Recommended Process](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/4-explore-git-branch-model-for-continuous-delivery)
 
 
 ## Session 4, Source control collaboration<p/>Oct 08, 2024
+
+<b><i>draft</i></b>
 
 1. git
 
