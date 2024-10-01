@@ -52,7 +52,6 @@ https://www.zaproxy.org/docs/desktop/start/features/contexts/
     - Ansible: agentless
 - Auzre Automation: Agent or extension
 
-
 ## PowerShell DSC
 - Azure Automation
     - agent
@@ -139,7 +138,7 @@ https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows
     * isolate relase from feature
     * merge to main and/or deploy 
 * Trunk Based
-    * cetnroal repo...
+    * Central repo...
     ? concept or different technique
 
 ### Flow
@@ -152,7 +151,6 @@ https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows
 
 associate issues
 Business domain feature sets
-
 
 Git Forking Worflow
 Gitflow Workflow
