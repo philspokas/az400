@@ -77,15 +77,16 @@ You can take as many assessments as you'd like.
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
 
-<b><i>draft</i></b>
-
-1. Teams and Team Permissions
 1. Branching workflows
 1. Pull Requests
     - ADO vs. GitHub
-        - Branch protection vs. rulesets
+    - Branch protection vs. rulesets
+1. [Microsoft Recommended Process for Releases](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/4-explore-git-branch-model-for-continuous-delivery)
+1. [GitHub Flow] https://docs.github.com/en/get-started/using-github/github-flow
 
-1. [Recommended Process](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/4-explore-git-branch-model-for-continuous-delivery)
+### Exercises
+1. Verify understanding by working through this Microsoft Learning lab: [Review Work Management](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M01_L01_Agile_Plan_and_Portfolio_Management_with_Azure_Boards.html)
+1. Verify understanding and rational for branch styles: [Design and Implement Branch Strategies](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/)
 
 
 ## Session 4, Source control collaboration<p/>Oct 08, 2024
@@ -93,13 +94,35 @@ You can take as many assessments as you'd like.
 <b><i>draft</i></b>
 
 1. git
+    1. local hooks
+    1. Removing files with BFG
+    1. Git LFS for files over 50 MB
+    1. git filter
+    1. tags
+    1. shallow clones
+
 
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
+
 ## Session 6, Package management<p/>Oct 22, 2024
+
 ## Session 7, Testing in pipelines<p/>Oct 29, 2024
+
 ## Session 8, Deployment scenarios<p/>Nov 05, 2024
+
 ## Session 9, Infrastructure as Code<p/>Nov 12, 2024
+
 ## Session 10, Security and compliance<p/>Nov 19, 2024
+
 ## Session 11, Monitoring and metrics<p/>Nov 26, 2024
+
 ## Session 12, Extra topics and exam prep<p/>Dec 03, 2024
+
+## Topics
+- Service Hooks
+- Review SAFe
+- Release Note Generation
+    - https://learn.microsoft.com/en-us/samples/azure-samples/azure-devops-release-notes/azure-devops-release-notes-generator/
+    - GitHub Releases
+
