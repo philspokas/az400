@@ -193,9 +193,7 @@ Alice does git push origin master, and everyone is happy they don't have to read
 * add badges
 * https://learn.microsoft.com/en-us/training/courses/az-400t00
 
-
 * gh release notes and release.yml
-
 
 ## MeasureUp Exam
 * Lock a branch and required reviewers
