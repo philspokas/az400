@@ -77,6 +77,7 @@ You can take as many assessments as you'd like.
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
 
+<details>
 1. Branching workflows
 1. Pull Requests
     - ADO vs. GitHub
@@ -88,6 +89,7 @@ You can take as many assessments as you'd like.
 1. Verify understanding by working through this Microsoft Learning lab: [Review Work Management](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M01_L01_Agile_Plan_and_Portfolio_Management_with_Azure_Boards.html)
 1. Verify understanding and rational for branch styles: [Design and Implement Branch Strategies](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/)
 
+</details>
 
 ## Session 4, Source control collaboration<p/>Oct 08, 2024
 
@@ -96,11 +98,15 @@ You can take as many assessments as you'd like.
 1. git
     1. local hooks
     1. Removing files with BFG
-    1. Git LFS for files over 50 MB
     1. git filter
     1. tags
     1. shallow clones
-
+    * git and Scalar
+    * git repack and git gc
+1. Git LFS
+    1. Overview
+    1. Git LFS for files over 50 MB
+    1. File Locking https://github.com/git-lfs/git-lfs/wiki/File-Locking
 
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
