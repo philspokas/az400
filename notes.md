@@ -31,7 +31,8 @@ https://www.zaproxy.org/docs/desktop/start/features/contexts/
 
 ## Azure Pipelines
 * [Pipeline completion triggers](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/pipeline-triggers?view=azure-devops#configure-pipeline-resource-triggers)
-* 
+* https://dev.to/n3wt0n/multiple-repositories-in-a-single-azure-pipeline-2oe2#:~:text=Did%20you%20know%20you%20can%20specify%20multiple%20repositories%20in%20one
+
 
 ## GitHub Action Workflows
 ### Secrets
@@ -118,6 +119,7 @@ Know what the service is used for in a DevOps context as well as how the service
 * merge policies and strategies
 * BFG
 * git filter-branch and filter-repo
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing#_rebase_vs_merge
 
 # Process Collaboration
 
