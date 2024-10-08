@@ -173,8 +173,15 @@ You can take as many assessments as you'd like.
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
 
 <b><i>draft</i></b>
-
-
+1. Azure DevOps Pipelines
+    1. Required templates
+    1. dependency patterns
+1. Pipeline templates
+1. GitHub Action Workflows
+1. Other Stuff you should know ...
+    1. Parallel jobs
+    1. Retention policies
+    1. Advanced triggering scenarios
 
 ## Session 6, Package management<p/>Oct 22, 2024
 
@@ -196,15 +203,8 @@ You can take as many assessments as you'd like.
 
 ## Session 12, Extra topics and exam prep<p/>Dec 03, 2024
 
-## Topics
-- Service Hooks
-- Review SAFe
-- Release Note Generation
-    - https://learn.microsoft.com/en-us/samples/azure-samples/azure-devops-release-notes/azure-devops-release-notes-generator/
-    - GitHub Releases
 
-
-## Topics
+## Additional Topics
 - Service Hooks
 - Review SAFe
 - Release Note Generation

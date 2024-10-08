@@ -23,7 +23,7 @@ https://www.zaproxy.org/docs/desktop/start/features/contexts/
 
 # Build and Release
 * Parallel jobs at org level
-* secruity scan in integration job
+* security scan in integration job
 * site security scan in deployment job
 * Microsoft vs. self-hosted agents
 * mulit-job configuration
@@ -40,7 +40,7 @@ https://www.zaproxy.org/docs/desktop/start/features/contexts/
 * secret must be less than 48K
 * use "with:" keyword to use secrets in a "step"
 * use "env:" to pass a secret into an environment variable
-* not secrets not available in an if statement unless set in environment
+* secrets not available in an if statement unless set in environment
 
 
 # Infrastrcture as Code (IaC)
