@@ -179,19 +179,6 @@ https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/
 * https://learn.microsoft.com/en-us/training/courses/az-400t00
 * git pull vs rebase (https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase)
 
-"Alice creates topic branch A, and works on it
-Bob creates unrelated topic branch B, and works on it
-Alice does git checkout master && git pull. Master is already up to date.
-Bob does git checkout master && git pull. Master is already up to date.
-Alice does git merge topic-branch-A
-Bob does git merge topic-branch-B
-Bob does git push origin master before Alice
-Alice does git push origin master, which is rejected because it's not a fast-forward merge.
-Alice looks at origin/master's log, and sees that the commit is unrelated to hers.
-Alice does git pull --rebase origin master
-Alice's merge commit is unwound, Bob's commit is pulled, and Alice's commit is applied after Bob's commit.
-Alice does git push origin master, and everyone is happy they don't have to read a useless merge commit when they look at the logs in the future.""
-
 * add badges
 * https://learn.microsoft.com/en-us/training/courses/az-400t00
 
@@ -232,7 +219,7 @@ Alice does git push origin master, and everyone is happy they don't have to read
 * Pipeline pass rate report
 * auto vs. manual service connection. Manual to set connection details, auto to use your own
 * NUnit tests
-* Integrate Synk with webhooks and apis
+* Integrate Snyk with webhooks and apis
 * Ansible is agentless but does require Python and SSH
 * DevOps Security: Project Admin can edit Project Page
 * PAT notifications
@@ -253,7 +240,7 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 - connect ADO to Defender: https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops
 - ADO rate and usage limits:https://learn.microsoft.com/en-us/azure/devops/integrate/concepts/rate-limits?view=azure-devops
 - chef architecture: ![alt text](image.png)
-- Anzible: https://www.ansible.com/how-ansible-works/
+- Ansible: https://www.ansible.com/how-ansible-works/
 - az repos: https://learn.microsoft.com/en-us/cli/azure/repos/policy/approver-count?view=azure-cli-latest
 - pipeline reports: https://learn.microsoft.com/en-us/azure/devops/pipelines/reports/pipelinereport?view=azure-devops
 - test analytics: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/test-analytics?view=azure-devops

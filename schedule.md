@@ -69,8 +69,6 @@ You can take as many assessments as you'd like.
 
 <details>
 
-<details>
-
 1. Boards
     1. Swimlanes
     1. Customization
@@ -95,29 +93,10 @@ You can take as many assessments as you'd like.
 1. Sample Questions
 
 </details>
-1. Teams
-    1. ADO
-    1. GitHub
-1. KPIs and Diagrams
-    1. Cumulative Flow
-    1. Cycle time
-    1. Lead Time
-1. Process Points
-    1. Max WIP per team member or team?
-
-1. Excercises
-    1. Connect Boards to GH
-        1.  https://learn.microsoft.com/en-us/azure/devops/boards/github/connect-to-github?view=azure-devops
-        1. attach commits
-
-    1. Create a wiki
-    1. Add a Mermaid diagram
-    1. Wiki as source
-1. Sample Questions
-
-</details>
 
 ## Session 3, Process Collaboration<p/>Oct 01, 2024
+
+<details>
 
 1. Branching workflows
 1. Pull Requests
@@ -131,6 +110,7 @@ You can take as many assessments as you'd like.
 1. Verify understanding by working through this Microsoft Learning lab: [Review Work Management](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M01_L01_Agile_Plan_and_Portfolio_Management_with_Azure_Boards.html)
 1. Verify understanding and rational for branch styles: [Design and Implement Branch Strategies](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/)
 
+</details>
 
 ## Session 4, Source control collaboration<p/>Oct 08, 2024
 
@@ -168,6 +148,10 @@ You can take as many assessments as you'd like.
     1. git filter-breanch
     1. git and Scalar
 
+### Exercises
+* Review https://learn.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops
+* take a practice exam! https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
+
 </details>
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
@@ -176,12 +160,16 @@ You can take as many assessments as you'd like.
 1. Azure DevOps Pipelines
     1. Required templates
     1. dependency patterns
-1. Pipeline templates
+    1. Retention policies
+    1. Reporting
+    1. [Multi repos ](https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/multi-repo-checkout?view=azure-devops)
 1. GitHub Action Workflows
+    1. Status checks
 1. Other Stuff you should know ...
     1. Parallel jobs
     1. Retention policies
     1. Advanced triggering scenarios
+    * Deployment groups
 
 ## Session 6, Package management<p/>Oct 22, 2024
 
@@ -196,8 +184,9 @@ You can take as many assessments as you'd like.
 
 
 ## Session 10, Security and compliance<p/>Nov 19, 2024
-
-
+<details>
+1. connect ADO to Defender: https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops
+</details>
 ## Session 11, Monitoring and metrics<p/>Nov 26, 2024
 
 
