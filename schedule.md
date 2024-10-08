@@ -14,7 +14,7 @@ You can take as many assessments as you'd like.
 
 
 ## Session 1, Introduction to DevOps<p/>Sep 17, 2024
-<details>
+
 <details>
 
 1. What is DevOps
@@ -155,24 +155,25 @@ You can take as many assessments as you'd like.
 
 ## Session 4, Source control collaboration<p/>Oct 08, 2024
 
-<b><i>draft</i></b>
+<details>
 
 1. git merge
-1. git
-    1. local hooks
-    1. Removing files with BFG
-    1. git filter
-    1. tags
-    1. shallow clones
-    * git and Scalar
-    * git repack and git gc
 1. Git LFS
     1. Overview
     1. Git LFS for files over 50 MB
     1. File Locking https://github.com/git-lfs/git-lfs/wiki/File-Locking
+1. git
+    1. local hooks
+    1. Removing files with BFG
+    1. git filter-breanch
+    1. git and Scalar
 
+</details>
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
+
+<b><i>draft</i></b>
+
 
 
 ## Session 6, Package management<p/>Oct 22, 2024
