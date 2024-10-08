@@ -95,6 +95,7 @@ You can take as many assessments as you'd like.
 
 <b><i>draft</i></b>
 
+1. git merge
 1. git
     1. local hooks
     1. Removing files with BFG
