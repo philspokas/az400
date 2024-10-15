@@ -18,14 +18,17 @@
 
 ## Exercise: Author templates
 <p>Azure Pipelines support 2 types of templates</p>
-* Includes templates: insert reusable content into a pipeline
-* Extends templates: control what is allowed in a pipeline
 
-<p>Using the [Template usage reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes) on Microsofot Learn, complete the following:</p>
+- Includes templates: insert reusable content into a pipeline
+- Extends templates: control what is allowed in a pipeline
+
+Using the [Template usage reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes) on Microsofot Learn, complete the following:
 
 1. Create a simple include template and use it in a workflow
-2. Create a cimple extends template
-3. *** leverage expressions and 
+2. Create a simple extends template
+3. Leverage expressions to dynamically resolve values
+4. Add parameters 
 
 ## Exercise: Author a Pipeline Decorator
-see https://learn.microsoft.com/en-us/azure/devops/extend/develop/add-pipeline-decorator?view=azure-devops
+A pipeline decorator can be used to automatically run pre-defined setps. Follow the step by step on Microsoft Learn to create a simple "Hello World" style decorator: [Author a pipeline decorator](https://learn.microsoft.com/en-us/azure/devops/extend/develop/add-pipeline-decorator?view=azure-devops)
+
