@@ -155,7 +155,7 @@ You can take as many assessments as you'd like.
 </details>
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
-
+<details>
 <b><i>draft</i></b>
 1. Azure DevOps Pipelines
     1. Pipeline basics
@@ -165,15 +165,14 @@ You can take as many assessments as you'd like.
     1. [Multi repos ](https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/multi-repo-checkout?view=azure-devops)
 1. Additional pipeline topics
     1. Deployment groups
-        - deploy an artifact to multiple systems/environments
+        - Classic Release deploy an artifact to multiple systems/environments
     1. Parallel jobs
     1. Retention policies
     1. Advanced triggering scenarios
-    1. Retention policies
     1. Reporting
 1. GitHub Action Workflows
     1. Status checks
-
+</details>
 
 ## Session 6, Package management<p/>Oct 22, 2024
 
