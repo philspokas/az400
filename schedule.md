@@ -158,18 +158,22 @@ You can take as many assessments as you'd like.
 
 <b><i>draft</i></b>
 1. Azure DevOps Pipelines
-    1. dependency patterns
-    1. Required templates
-    1. Retention policies
-    1. Reporting
+    1. Pipeline basics
+    1. Agents
+    1. Templates
+    1. Decorators
     1. [Multi repos ](https://learn.microsoft.com/en-us/azure/devops/pipelines/repos/multi-repo-checkout?view=azure-devops)
-1. GitHub Action Workflows
-    1. Status checks
-1. Other Stuff you should know ...
+1. Additional pipeline topics
+    1. Deployment groups
+        - deploy an artifact to multiple systems/environments
     1. Parallel jobs
     1. Retention policies
     1. Advanced triggering scenarios
-    * Deployment groups
+    1. Retention policies
+    1. Reporting
+1. GitHub Action Workflows
+    1. Status checks
+
 
 ## Session 6, Package management<p/>Oct 22, 2024
 
@@ -178,6 +182,7 @@ You can take as many assessments as you'd like.
 
 
 ## Session 8, Deployment scenarios<p/>Nov 05, 2024
+    1. dependency patterns
 
 
 ## Session 9, Infrastructure as Code<p/>Nov 12, 2024
@@ -198,8 +203,8 @@ You can take as many assessments as you'd like.
 
 
 ## Additional Topics
-- Service Hooks
-- Review SAFe
+- [Service Hooks](https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?toc=%2Fazure%2Fdevops%2Fmarketplace-extensibility%2Ftoc.json&view=azure-devops)
+- [Review SAFe](https://scaledagileframework.com/)
 - Release Note Generation
     - https://learn.microsoft.com/en-us/samples/azure-samples/azure-devops-release-notes/azure-devops-release-notes-generator/
     - GitHub Releases

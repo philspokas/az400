@@ -185,6 +185,9 @@ https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/
 * gh release notes and release.yml
 
 ## MeasureUp Exam
+* Azure DevOps extensions and pipeline decorator
+
+
 * Lock a branch and required reviewers
 * OWASP Dependency-Check and OWASP ZAP
 * log analytics workspace architecture 
@@ -210,7 +213,6 @@ https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/
 * DevOps Service Hooks and notifications
 * Bicep
 * Azure Deployment Environments
-* Azure DevOps extensions and pipeline decorator
 * Azure Automation State Configuration
 * Packer
 * Github vs. GHE connecting to boards: PAT/uname and pw vs. OAuth
@@ -246,7 +248,7 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 - test analytics: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/test-analytics?view=azure-devops
 - status checks: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks
 - env locks in pipelines: https://learn.microsoft.com/en-us/azure/devops/pipelines/process/approvals?view=azure-devops&tabs=check-pass#exclusive-lock
-- synk and dbot:  https://janaka.dev/devsecops-aking-snyk-github-dependabot-test-drive/
+- snyk and dbot:  https://janaka.dev/devsecops-aking-snyk-github-dependabot-test-drive/
 - code scan: https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql
 - static analyzers: https://dev.to/dbalikhin/a-quick-comparison-of-security-static-code-analyzers-for-c-2l5h
 - How MS: https://learn.microsoft.com/en-us/devops/plan/how-microsoft-plans-devops
