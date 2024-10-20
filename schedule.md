@@ -155,8 +155,9 @@ You can take as many assessments as you'd like.
 </details>
 
 ## Session 5, Build and release pipelines<p/>Oct 15, 2024
+
 <details>
-<b><i>draft</i></b>
+
 1. Azure DevOps Pipelines
     1. Pipeline basics
     1. Agents
@@ -166,26 +167,34 @@ You can take as many assessments as you'd like.
 1. Additional pipeline topics
     1. Deployment groups
         - Classic Release deploy an artifact to multiple systems/environments
+
+</details>
+
+## Session 6, Deployment scenarios<p/>Nov 05, 2024
+
+<b><i>draft</i></b>
+
+    1. dependency patterns
     1. Parallel jobs
     1. Retention policies
     1. Advanced triggering scenarios
     1. Reporting
 1. GitHub Action Workflows
     1. Status checks
-</details>
-
-## Session 6, Package management<p/>Oct 22, 2024
-
 
 ## Session 7, Testing in pipelines<p/>Oct 29, 2024
 
+<b><i>draft</i></b>
 
-## Session 8, Deployment scenarios<p/>Nov 05, 2024
-    1. dependency patterns
+1. test pyramid
+1. running unit tests
+1. integration tests
+1. end to end tests
+1. Zaproxy
 
+## Session 8, Package management<p/>Oct 22, 2024
 
 ## Session 9, Infrastructure as Code<p/>Nov 12, 2024
-
 
 ## Session 10, Security and compliance<p/>Nov 19, 2024
 

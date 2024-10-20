@@ -1,3 +1,5 @@
+# Pipeline Exercises
+Designed to introduce some of the not so obvious scenarios.
 
 ## Exercise: Install Azure DevOps Agent
 1. install a custom agent
