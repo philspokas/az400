@@ -7,8 +7,11 @@ Continous Deployment related exercises
 - Jobs 2 and 3 depend on job 1 and can run in parallel
 - Job 4 depends on Jobs 2 and 3 and always runs regardless of Job 2 and Job 3 outcomes
 
+https://learn.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops
+
 ## Matrix jobs
 - Use matrix to run a job on multiple platforms
+
 
 ## Container Jobs
 - 
