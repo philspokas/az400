@@ -114,7 +114,7 @@ You can take as many assessments as you'd like.
 
 ## Session 4, Source control collaboration<p/>Oct 08, 2024
 
-<b><i>draft</i></b>
+<details>
 
 1. git
     1. local hooks
@@ -172,10 +172,14 @@ You can take as many assessments as you'd like.
 
 ## Session 6, Deployment scenarios<p/>Nov 05, 2024
 
+<details>
+
 1. Jobs
 1. Dependencies and expressions
 1. Parallel jobs
-1. Container obs
+1. Container jobs
+
+</details>
 
 ## Session 7, Testing in pipelines<p/>Oct 29, 2024
 
