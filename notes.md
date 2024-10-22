@@ -297,7 +297,7 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 
 * gh release notes and release.yml
 
-### Pipelines
+## Pipelines
 * Azure Deployment Environments
 * Azure DevOps extensions and pipeline decorator
 - pipeline expressions: https://learn.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops
@@ -306,6 +306,12 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 * Pipeline retention policies and leases
 * Deployment groups
 
+## tests
+https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L09_Set_Up_and_Run_Functional_Tests.html
 
 ## Security
 https://learn.microsoft.com/en-us/training/paths/implement-security-through-pipeline-using-devops/
+
+## Monitoring and Metrics
+https://learn.microsoft.com/en-us/training/modules/automate-inspection-health/
+

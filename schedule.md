@@ -172,15 +172,10 @@ You can take as many assessments as you'd like.
 
 ## Session 6, Deployment scenarios<p/>Nov 05, 2024
 
-<b><i>draft</i></b>
-
-    1. dependency patterns
-    1. Parallel jobs
-    1. Retention policies
-    1. Advanced triggering scenarios
-    1. Reporting
-1. GitHub Action Workflows
-    1. Status checks
+1. Jobs
+1. Dependencies and expressions
+1. Parallel jobs
+1. Container obs
 
 ## Session 7, Testing in pipelines<p/>Oct 29, 2024
 
