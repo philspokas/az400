@@ -116,27 +116,6 @@ You can take as many assessments as you'd like.
 
 <details>
 
-1. git
-    1. local hooks
-    1. Removing files with BFG
-    1. Git LFS for files over 50 MB
-    1. git filter
-    1. tags
-    1. shallow clones
-
-1. [Microsoft Recommended Process for Releases](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/4-explore-git-branch-model-for-continuous-delivery)
-1. [GitHub Flow] https://docs.github.com/en/get-started/using-github/github-flow
-
-### Exercises
-1. Verify understanding by working through this Microsoft Learning lab: [Review Work Management](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M01_L01_Agile_Plan_and_Portfolio_Management_with_Azure_Boards.html)
-1. Verify understanding and rational for branch styles: [Design and Implement Branch Strategies](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/)
-
-</details>
-
-## Session 4, Source control collaboration<p/>Oct 08, 2024
-
-<details>
-
 1. git merge
 1. Git LFS
     1. Overview
@@ -147,10 +126,6 @@ You can take as many assessments as you'd like.
     1. Removing files with BFG
     1. git filter-breanch
     1. git and Scalar
-
-### Exercises
-* Review https://learn.microsoft.com/en-us/devops/develop/how-microsoft-develops-devops
-* take a practice exam! https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/
 
 </details>
 
@@ -181,17 +156,20 @@ You can take as many assessments as you'd like.
 
 </details>
 
-## Session 7, Testing in pipelines<p/>Oct 29, 2024
+## Session 7, Containers and Testing in pipelines<p/>Oct 29, 2024
 
 <b><i>draft</i></b>
+
+1. Containers 101
+1. Container Exercises
+
+## Session 8, Package management<p/>Oct 22, 2024
 
 1. test pyramid
 1. running unit tests
 1. integration tests
 1. end to end tests
 1. Zaproxy
-
-## Session 8, Package management<p/>Oct 22, 2024
 
 ## Session 9, Infrastructure as Code<p/>Nov 12, 2024
 
