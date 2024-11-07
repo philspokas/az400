@@ -158,27 +158,32 @@ You can take as many assessments as you'd like.
 
 ## Session 7, Containers and Testing in pipelines<p/>Oct 29, 2024
 
-<b><i>draft</i></b>
+<details>
 
 1. Containers 101
 1. Container Exercises
 
+</details>
+
 ## Session 8, Package management<p/>Oct 22, 2024
+
+<b><i>draft</i></b>
 
 1. test pyramid
 1. running unit tests
 1. integration tests
 1. end to end tests
-1. Zaproxy
 
 ## Session 9, Infrastructure as Code<p/>Nov 12, 2024
 
 ## Session 10, Security and compliance<p/>Nov 19, 2024
 
 <details>
+https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/
 1. https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction
 1. connect ADO to Defender: https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops
 1. GitHub Advanced Security
+1. ZAProxy
 </details>
 
 ## Session 11, Monitoring and metrics<p/>Nov 26, 2024
