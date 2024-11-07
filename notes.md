@@ -201,7 +201,7 @@ https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/
 * Using Azure App Configuration Feature Flags
 * Requirements Traceability Matrix
 * use KeyVault during deployment
-* test executiong tren
+* test execution trend
 * SAFe and boards
 * Remove large binary with git rebase and git push --force
 * JMeter
@@ -210,7 +210,7 @@ https://learn.microsoft.com/en-us/training/modules/monitor-app-performance/
 * PowerShell DSC sample configuration
 * Pipeline retention policies and leases
 * Deployment groups
-* DevOps Service Hooks and notifications
+* DevOps Service Hooks and notifications https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?view=azure-devops
 * Bicep
 * Azure Deployment Environments
 * Azure Automation State Configuration
@@ -245,9 +245,11 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 - Ansible: https://www.ansible.com/how-ansible-works/
 - az repos: https://learn.microsoft.com/en-us/cli/azure/repos/policy/approver-count?view=azure-cli-latest
 - pipeline reports: https://learn.microsoft.com/en-us/azure/devops/pipelines/reports/pipelinereport?view=azure-devops
-- test analytics: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/test-analytics?view=azure-devops
+
 - status checks: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/collaborating-on-repositories-with-code-quality-features/about-status-checks
 - env locks in pipelines: https://learn.microsoft.com/en-us/azure/devops/pipelines/process/approvals?view=azure-devops&tabs=check-pass#exclusive-lock
+
+
 - snyk and dbot:  https://janaka.dev/devsecops-aking-snyk-github-dependabot-test-drive/
 - code scan: https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql
 - static analyzers: https://dev.to/dbalikhin/a-quick-comparison-of-security-static-code-analyzers-for-c-2l5h
@@ -268,27 +270,24 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 - ghd auth: https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github-in-github-desktop
 - log analytics workspace arch: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design
 - otel sampling: https://learn.microsoft.com/en-us/previous-versions/azure/azure-monitor/app/sampling
-- owasp dependency chec: https://owasp.org/www-project-dependency-check/
-- devops security: https://learn.microsoft.com/en-us/azure/defender-for-cloud/devops-support
-- Microsoft Security DevOps Azure DevOps https://learn.microsoft.com/en-us/azure/defender-for-cloud/azure-devops-extension
+
+
 - Cloud devosp security https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction
 - release notes generator https://github.com/azure-samples/azure-devops-release-notes/tree/main
 - remove a large binary: https://learn.microsoft.com/en-us/azure/devops/repos/git/remove-binaries?view=azure-devops
 - SAFe and Boards: https://learn.microsoft.com/en-us/azure/devops/boards/plans/safe-concepts?view=azure-devops&tabs=agile-process
-- test execution trend: https://learn.microsoft.com/en-us/azure/devops/report/powerbi/sample-test-plans-execution-trend?view=azure-devops&tabs=powerbi
-- test execution trend report: https://learn.microsoft.com/en-us/azure/devops/report/powerbi/sample-test-plans-execution-trend?view=azure-devops&tabs=powerbi
 - metric widgets: https://marketplace.visualstudio.com/items?itemName=solidify.devops-metrics
 - keyvault secure deployment: https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli
 - Requirements Traceability Matrix: https://www.wrike.com/blog/what-is-requirements-traceability-matrix/
 - ADO Requirements Traceability: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/requirements-traceability?view=azure-devops
+
 - feature flags: https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-dotnet-background-service
 - app config feature flags: https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags?tabs=azure-portal
+
 - DevOps Task for Azure Data Explorer: https://learn.microsoft.com/en-us/azure/data-explorer/devops
 - Rate and usage limits: https://learn.microsoft.com/en-us/azure/devops/integrate/concepts/rate-limits?view=azure-devops&source=docs
 - Azure DevOps Task for Azure Data Explorer: https://learn.microsoft.com/en-us/azure/data-explorer/devops
 - Locking and git-lfs: https://github.com/git-lfs/git-lfs/wiki/File-Locking
-- runsettings for unit tests: https://learn.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022
-- flaky tests: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/flaky-test-management?view=azure-devops
 - mermaid
 
 * add badges
@@ -307,10 +306,21 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azur
 * Deployment groups
 
 ## tests
-https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L09_Set_Up_and_Run_Functional_Tests.html
+- https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L09_Set_Up_and_Run_Functional_Tests.html
+- runsettings for unit tests: https://learn.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file?view=vs-2022
+- flaky tests: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/flaky-test-management?view=azure-devops
+- test execution trend: https://learn.microsoft.com/en-us/azure/devops/report/powerbi/sample-test-plans-execution-trend?view=azure-devops&tabs=powerbi
+- test execution trend report: https://learn.microsoft.com/en-us/azure/devops/report/powerbi/sample-test-plans-execution-trend?view=azure-devops&tabs=powerbi
+- test analytics: https://learn.microsoft.com/en-us/azure/devops/pipelines/test/test-analytics?view=azure-devops
+
+
 
 ## Security
-https://learn.microsoft.com/en-us/training/paths/implement-security-through-pipeline-using-devops/
+- https://learn.microsoft.com/en-us/training/paths/implement-security-through-pipeline-using-devops/
+- owasp dependency chec: https://owasp.org/www-project-dependency-check/
+- devops security: https://learn.microsoft.com/en-us/azure/defender-for-cloud/devops-support
+- Microsoft Security DevOps Azure DevOps https://learn.microsoft.com/en-us/azure/defender-for-cloud/azure-devops-extension
+
 
 ## Monitoring and Metrics
 https://learn.microsoft.com/en-us/training/modules/automate-inspection-health/
