@@ -175,7 +175,12 @@ You can take as many assessments as you'd like.
 1. end to end tests
 
 ## Session 9, Infrastructure as Code<p/>Nov 12, 2024
-
+- Infrastructure as Code
+- ARM / BICEP
+- Powershell DSC
+- Configuration management
+- Azure Automation
+- Artifact feeds
 ## Session 10, Security and compliance<p/>Nov 19, 2024
 
 <details>
