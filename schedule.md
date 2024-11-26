@@ -167,6 +167,8 @@ You can take as many assessments as you'd like.
 
 ## Session 8, Package management<p/>Oct 22, 2024
 
+<details>
+
 <b><i>draft</i></b>
 
 1. test pyramid
@@ -174,19 +176,32 @@ You can take as many assessments as you'd like.
 1. integration tests
 1. end to end tests
 
-## Session 9, Infrastructure as Code<p/>Nov 12, 2024
-
-## Session 10, Security and compliance<p/>Nov 19, 2024
-
-<details>
-https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/
-1. https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction
-1. connect ADO to Defender: https://learn.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-devops
-1. GitHub Advanced Security
-1. ZAProxy
 </details>
 
-## Session 11, Monitoring and metrics<p/>Nov 26, 2024
+
+## Session 9, Infrastructure as Code<p/>Nov 12, 2024
+
+## Session 10, Monitoring and metrics<p/>Nov 19, 2024
+
+## Session 11, Security and compliance<p/>Nov 26, 2024
+
+<details>
+
+1. [Secure Continous Deployment in Azure DevOps](https://learn.microsoft.com/en-us/training/paths/az-400-implement-secure-continuous-deployment/)
+1. Key content in [Implement Security in Pipelines](https://learn.microsoft.com/en-us/credentials/applied-skills/implement-security-through-pipeline-using-devops/)
+1. Connect Defender to Azure DevOps [Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction)
+1. GitHub Advanced Security
+1. ZAProxy
+
+### References
+- https://learn.microsoft.com/en-us/training/modules/configure-secure-access-pipeline-resources/
+- https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction
+- https://azure.microsoft.com/products/devops/github-advanced-security
+- https://learn.microsoft.com/en-us/training/paths/az-400-implement-secure-continuous-deployment/
+- https://learn.microsoft.com/en-us/azure/devops/pipelines/security/templates?view=azure-devops
+- https://learn.microsoft.com/en-us/training/modules/configure-project-repository-structure-support-secure-pipelines/
+
+</details>
 
 
 ## Session 12, Extra topics and exam prep<p/>Dec 03, 2024
